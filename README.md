@@ -1,0 +1,17 @@
+products
+
+product_id
+product_name
+product_image
+product_thumbnail
+product_code
+product_length
+product_frame_type
+product_frame_color
+product_stock_quantity
+
+product_country_price
+
+product_id
+country_name
+product_price
